@@ -1,0 +1,14 @@
+{
+  "name": "minigame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rockGame.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
