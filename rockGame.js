@@ -1,7 +1,7 @@
 //how to get the users input
 const prompt = require('prompt-sync')();
 
-import chalk from 'chalk'
+//import chalk from 'chalk'
 console.log("Welcome to Rock,Paper,Scissors")
 
 const play = () =>{
